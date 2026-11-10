@@ -33,7 +33,7 @@ exit('No se pudo conectar con la base de datos.');
     <option value="60000">$60.000</option>
 </select>
 
-    <button type="submit">Registra socio</button>
+    <button type="submit">Registrar socio</button>
 <?php
     if (empty($errores)) {
 try {
